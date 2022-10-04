@@ -5,7 +5,7 @@
 	box-sizing: border-box;
 }
 .hero{
-	height: 150vh;
+	height: 100vh;
 	width: 100%;
 	background-image: url(../img/ackground-1.jpg);
 	background-size: cover;
