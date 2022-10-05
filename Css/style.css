@@ -51,7 +51,7 @@ nav ul li a{
 	text-transform: capitalize;
 }
 nav ul li a:hover{
-	color: #f9004d;
+	color: #020101;
 	transition: .4s;
 }
 .btn{
@@ -110,7 +110,7 @@ h4{
 	border-radius: 30px;
 	background-color:#7aa162;
 	color: white;
-	box-shadow: 0px 0px 3px rgb(28, 43, 26), 0px 0px 15px #4e4e4e;
+	box-shadow: 0px 0px 3px rgb(50, 73, 47), 0px 0px 15px #4e4e4e;
 	top: 6px;
 	right: 6px; 
 }
@@ -177,7 +177,8 @@ button:hover{
 }
 
 .service{
-	background: #04220c;
+	background: 
+	#171613;
 	width: 100%;
 	padding: 100px 0px;
 }
@@ -210,7 +211,7 @@ button:hover{
 	display: block;
 	text-align: center;
 	margin: 25px 0px;
-	color: #f9004d;
+	color: #275235;
 
 }
 h5{
@@ -219,13 +220,13 @@ h5{
 	margin-bottom: 15px;
 }
 .pra p{
-	color: #fcfc;
+	color: rgb(255, 255, 255);
 	font-size: 16px;
 	line-height: 27px;
 	margin-bottom: 25px;
 }
 .card .button{
-	background-color:#f9004d;
+	background-color:#275235;
 	color: white;
 	text-decoration: none;
 	border: 2px solid transparent;
@@ -236,7 +237,7 @@ h5{
 }
 .card .button:hover{
 	background-color: transparent;
-	border: 2px solid #f9004d;
+	border: 2px solid #275235;
 	cursor: pointer;
 }
 .contact-me{
@@ -255,7 +256,7 @@ h5{
 	margin-bottom: 25px;
 }
 .contact-me .button-two{
-	background-color:#f9004d;
+	background-color:#275235;
 	color: white;
 	text-decoration: none;
 	border: 2px solid transparent;
@@ -266,7 +267,7 @@ h5{
 }
 .contact-me .button-two:hover{
 	background-color: transparent;
-	border: 2px solid #f9004d;
+	border: 2px solid #275235;
 	cursor: pointer;
 }
 footer{
@@ -301,7 +302,7 @@ footer p:nth-child(2){
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background:  #f9004d;
+	background:  #275235;
 	border-radius: 50%;
 	margin: 22px 10px;
 	color: white;
@@ -314,7 +315,7 @@ footer p:nth-child(2){
 }
 .end{
 	position: absolute;
-	color:#f9004d;
+	color:#275235;
 	bottom: 35px;
 	font-size: 14px; 
 }
